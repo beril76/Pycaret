@@ -1,3 +1,3 @@
 
-Using pycaret library for classification of movie profits.
+Using pycaret library for prediction of sucesss of Bollywood Movies. 
 
